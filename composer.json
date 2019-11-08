@@ -1,0 +1,21 @@
+{
+    "name": "wangerx/yii2-bootstrap4",
+    "description": "The Twitter Bootstrap4 extension for the Yii framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","bootstrap4"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "wangerx",
+            "email": "326447527@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2\\bootstrap4\\": ""
+        }
+    }
+}
